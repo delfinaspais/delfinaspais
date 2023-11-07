@@ -1,7 +1,4 @@
-### Hi 👋, I'm Delfina
-
-@<!--
-**delfinaspais/delfinaspais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> ### Hi 👋, I'm Delfina </h1>
 
 - 🔭 I’m currently working on: Freelance Projects
 - 🌱 I’m currently learning: Typescript & NextJS & MongoDB
