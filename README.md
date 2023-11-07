@@ -1,4 +1,4 @@
-<h1> ### Hi 👋, I'm Delfina </h1>
+<h1 Hi 👋, I'm Delfina </h1>
 
 - 🔭 I’m currently working on: Freelance Projects
 - 🌱 I’m currently learning: Typescript & NextJS & MongoDB
