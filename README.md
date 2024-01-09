@@ -1,12 +1,12 @@
 <h1 align="center"> Hi, I'm Delfina 👋</h1>
 <h3 align="center"><i>Backend, Frontend and Database solutions</i></h3>
 
-- 🔭 I’m currently working at: Lambda solution
-- 🌱 I’m currently learning: Typescript & NextJS & MongoDB
+- 🔭 I’m currently working at: Lambda Solution
+- 🌱 I’m currently learning: Flutter & NextJS & MongoDB
 - 👯 I’m looking to collaborate on: Any Project
 - 💬 Ask me about: Backend Solutions || Frontend Solutions
 - 📫 How to reach me: www.linkedin.com/in/delfinaspais || delfina.spais@gmail.com
-- ⚡ Fun fact: Im a Violoncellist Musician apassionated for all kind of music
+- ⚡ Fun fact: Im a professional Violoncellist Musician apassionated for all kind of music
 
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
