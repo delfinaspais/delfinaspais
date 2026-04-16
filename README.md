@@ -5,9 +5,9 @@
 
 ### 💻 About Me
 
-- 🚀 Full Stack Developer with 3+ years of experience building scalable web applications  
-- 🧠 Strong focus on backend architecture, APIs, and SaaS systems  
-- ⚡ Experience across the full development lifecycle (design, development, deployment)  
+- Full Stack Developer with 3+ years of experience building scalable web applications  
+- Strong focus on backend architecture, APIs, and SaaS systems  
+- Experience across the full development lifecycle (design, development, deployment)  
 
 ---
 
@@ -26,9 +26,9 @@ TypeScript • Python • Docker • Git • REST APIs
 
 ### 🚀 What I'm Working On
 
-- 🔭 Currently working at **Lambda Solution** & **Gunei**
-- 🌱 Learning more about **Cloud (AWS), Docker & system design**  
-- 👯 Open to collaborating on **scalable web apps & SaaS projects**  
+- Currently working at **Lambda Solution** & **Gunei**
+- Learning more about **Cloud (AWS), Docker & system design**  
+- Open to collaborating on **scalable web apps & SaaS projects**  
 
 ---
 
