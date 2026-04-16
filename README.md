@@ -1,12 +1,48 @@
-<h1 align="center"> Hi, I'm Delfina 👋</h1>
-<h3 align="center"><i>Backend, Frontend and Database solutions</i></h3>
+<h1 align="center">Hi, I'm Delfina 👋</h1>
+<h3 align="center">Full Stack Developer | Node.js, React, TypeScript</h3>
 
-- 🔭 I’m currently working at: Lambda Solution
-- 🌱 I’m currently learning: Flutter & NextJS & MongoDB
-- 👯 I’m looking to collaborate on: Any Project
-- 💬 Ask me about: Backend Solutions || Frontend Solutions
-- 📫 How to reach me: www.linkedin.com/in/delfinaspais || delfina.spais@gmail.com
-- ⚡ Fun fact: Im a professional Violoncellist Musician apassionated for all kind of music
+---
+
+### 💻 About Me
+
+- 🚀 Full Stack Developer with 3+ years of experience building scalable web applications  
+- 🧠 Strong focus on backend architecture, APIs, and SaaS systems  
+- ⚡ Experience across the full development lifecycle (design, development, deployment)  
+- 🌎 Open to remote opportunities with international teams  
+
+---
+
+### 🛠 Tech Stack
+
+**Backend:**  
+Node.js • NestJS • Express • PostgreSQL  
+
+**Frontend:**  
+React • Next.js • Svelte • Flutter  
+
+**Other:**  
+TypeScript • Python • Docker • Git • REST APIs  
+
+---
+
+### 🚀 What I'm Working On
+
+- 🔭 Currently working at **Lambda Solution**  
+- 🌱 Learning more about **Cloud (AWS), Docker & system design**  
+- 👯 Open to collaborating on **scalable web apps & SaaS projects**  
+
+---
+
+### 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/delfinaspais  
+- Email: delfina.spais@gmail.com  
+
+---
+
+### 🎻 Fun Fact
+
+I'm also a professional cellist — which has strengthened my discipline, focus, and attention to detail 🎶
 
 <h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
