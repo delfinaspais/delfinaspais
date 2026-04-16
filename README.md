@@ -26,7 +26,7 @@ TypeScript • Python • Docker • Git • REST APIs
 
 ### 🚀 What I'm Working On
 
-- 🔭 Currently working at **Lambda Solution**  
+- 🔭 Currently working at **Lambda Solution** & **Gunei**
 - 🌱 Learning more about **Cloud (AWS), Docker & system design**  
 - 👯 Open to collaborating on **scalable web apps & SaaS projects**  
 
